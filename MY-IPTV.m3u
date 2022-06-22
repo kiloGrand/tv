@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1hd
+#EXTINF:-1 ,CCTV-2HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2hd
+#EXTINF:-1 ,CCTV-3HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3hd
+#EXTINF:-1 ,北京卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv1
+#EXTINF:-1 ,安徽卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/ahtv
+#EXTINF:-1 ,广东卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/gdtv
+#EXTINF:-1 ,湖南卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hunantv
+#EXTINF:-1 ,CCTV-1高清
+rtsp://125.88.52.18/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil
+#EXTINF:-1 ,CCTV-2高清测试
+rtsp://125.88.52.18/PLTV/88888905/224/3221227634/10000100000000060000000004662503_0.smil
